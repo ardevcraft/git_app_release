@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "codename": "Aurora",
-  "version": "1.4.0",
+  "version": "1.0.0",
   "build": 42,
   "minimum_version": "1.2.0",
   "minimum_build": 30,
