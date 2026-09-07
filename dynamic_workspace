@@ -5,7 +5,7 @@
   "build": 1,
   "minimum_version": "1.0.0",
   "minimum_build": 1,
-  "force_update": false,
+  "force_update": true,
   "changelog": "• Added improved app update handling.\n• Added notification permission handling.\n• Added attendance reminder notifications.\n• Added Android exact alarm permission support.\n• Improved background notification scheduling.\n• Improved overall app performance and stability.",
   "links": {
     "android": "https://github.com/ardevcraft/git_app_release/releases/download/v1.2.0/dhbd-oms-release-1.2.0.apk",
