@@ -2,9 +2,9 @@
   "enabled": true,
   "codename": "Aurora",
   "version": "1.0.0",
-  "build": 42,
+  "build": 1,
   "minimum_version": "1.0.0",
-  "minimum_build": 30,
+  "minimum_build": 1,
   "force_update": false,
   "changelog": "• Improved overall app performance.\n• Enhanced document and PDF viewing.\n• Improved push notification handling.\n• Fixed minor UI and stability issues.",
   "links": {
