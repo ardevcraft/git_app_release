@@ -1,14 +1,14 @@
 {
   "enabled": true,
-  "codename": "Aurora",
-  "version": "1.0.0",
+  "codename": "NightBird",
+  "version": "1.2.0",
   "build": 1,
   "minimum_version": "1.0.0",
   "minimum_build": 1,
   "force_update": false,
-  "changelog": "• Improved overall app performance.\n• Enhanced document and PDF viewing.\n• Improved push notification handling.\n• Fixed minor UI and stability issues.",
+  "changelog": "• Added improved app update handling.\n• Added notification permission handling.\n• Added attendance reminder notifications.\n• Added Android exact alarm permission support.\n• Improved background notification scheduling.\n• Improved overall app performance and stability.",
   "links": {
-    "android": "https://github.com/ardevcraft/static_app_version/releases/download/v1.0.0/app-release.apk",
+    "android": "https://github.com/ardevcraft/git_app_release/releases/download/v1.2.0/dhbd-oms-release-1.2.0.apk",
     "ios": "https://apps.apple.com/app/id123456789"
   }
 }
