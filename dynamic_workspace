@@ -3,7 +3,7 @@
   "codename": "NightBird",
   "version": "1.2.0",
   "build": 1,
-  "minimum_version": "1.0.0",
+  "minimum_version": "1.2.0",
   "minimum_build": 1,
   "force_update": true,
   "changelog": "• Added improved app update handling.\n• Added notification permission handling.\n• Added attendance reminder notifications.\n• Added Android exact alarm permission support.\n• Improved background notification scheduling.\n• Improved overall app performance and stability.",
