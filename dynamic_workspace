@@ -1,14 +1,14 @@
 {
   "enabled": true,
-  "codename": "NightBird",
-  "version": "1.0.0",
+  "codename": "Spark",
+  "version": "1.1.0",
   "build": 1,
-  "minimum_version": "1.0.0",
+  "minimum_version": "1.1.0",
   "minimum_build": 1,
   "force_update": false,
   "changelog": "• Added improved app update handling.\n• Added notification permission handling.\n• Added attendance reminder notifications.\n• Added Android exact alarm permission support.\n• Improved background notification scheduling.\n• Improved overall app performance and stability.",
   "links": {
-    "android": "https://github.com/ardevcraft/git_app_release/releases/download/v1.0.0/dhbd-oms-release-1.0.0.apk",
+    "android": "https://github.com/ardevcraft/git_app_release/releases/download/v1.1.0/dhbd-oms-release-1.0.0.apk",
     "ios": "https://apps.apple.com/app/id123456789"
   }
 }
